@@ -1,1 +1,1 @@
-# Indian Gaming Blogging Website 🕹️ 🎮
+# Indian Gaming Blogging Website 🎮
