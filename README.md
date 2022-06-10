@@ -12,4 +12,8 @@ A Blogging site where you can about Articles related to Indian Gaming.
 # Register Page
 ![1 (2)](https://user-images.githubusercontent.com/77536248/173062119-b4e5181a-e784-4480-aa98-3b18f311a687.PNG)
 
+# Login Page
+![2 (2)](https://user-images.githubusercontent.com/77536248/173062217-2b62df32-d145-4c85-8aa8-9c1576dbd13b.PNG)
+
+
 
