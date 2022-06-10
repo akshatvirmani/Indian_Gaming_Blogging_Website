@@ -9,3 +9,7 @@ A Blogging site where you can about Articles related to Indian Gaming.
 # Home Page
 ![home](https://user-images.githubusercontent.com/77536248/173061899-baec03fe-b2c8-456d-a920-bd8981c3d676.PNG)
 
+# Register Page
+![1 (2)](https://user-images.githubusercontent.com/77536248/173062119-b4e5181a-e784-4480-aa98-3b18f311a687.PNG)
+
+
